@@ -1,3 +1,5 @@
+//javascript:function%20loadScript(scriptURL){var%20scriptElem=document.createElement('SCRIPT');scriptElem.setAttribute('type','text/javaScript');scriptElem.setAttribute('charset','UTF-8');scriptElem.setAttribute('src',scriptURL);document.body.appendChild(scriptElem);}loadScript('https://korarts.github.io/pajet.js');
+
 var pajetURI = "https://korarts.github.io/";
 
 var allElForWas = document.getElementsByTagName("*");
