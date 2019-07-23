@@ -1,4 +1,4 @@
-var pajetURI = "http://mydeute.com/was/";
+var pajetURI = "https://korarts.github.io/";
 
 var allElForWas = document.getElementsByTagName("*");
 var NgbUserEvent = new __NgbUserEvent();
